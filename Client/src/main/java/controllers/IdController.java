@@ -11,7 +11,8 @@ public class IdController {
     Id myId;
 
     public ArrayList<Id> getIds() {
-        return null;
+        System.out.println("gg");
+        return new ArrayList<>();
     }
 
     public Id postId(Id id) {

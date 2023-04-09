@@ -11,7 +11,8 @@ public class IdController {
     Id myId;
 
     public ArrayList<Id> getIds() {
-        System.out.println("gg");
+
+        System.out.println();
         return new ArrayList<>();
     }
 
